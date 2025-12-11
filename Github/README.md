@@ -37,5 +37,7 @@ After approval, the branch is merged into the main project. Developers then upda
 # Explaining:
 
 - How to ``` configure git ``` and  ``` push ``` code on ``` github ```?
-- How to Use a `.gitignore` File ?
-- How to use ``` git restore ``` command ?
+- How to Use a `.gitignore` File?
+- How to use ``` git restore ``` command?
+- How to Use the `git revert` Command?
+- How to Use the `git reset` Command?
