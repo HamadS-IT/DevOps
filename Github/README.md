@@ -42,3 +42,4 @@ After approval, the branch is merged into the main project. Developers then upda
 - How to Use the `git revert` Command?
 - How to Use the `git reset` Command?
 - How to Create `Global` and `Local` `Git Aliases`?
+- How to `Create`, `Switch`, `Merge`, and `Delete` `Git Branches`?
