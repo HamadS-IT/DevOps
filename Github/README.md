@@ -45,3 +45,4 @@ After approval, the branch is merged into the main project. Developers then upda
 - How to `Create`, `Switch`, `Merge`, and `Delete` `Git Branches`?
 - How to Use the `git commit --amend` Command?
 - How to Use the `git clone` Command?
+- How to Use `git pull` and `git fetch`?
