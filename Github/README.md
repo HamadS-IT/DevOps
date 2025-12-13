@@ -50,3 +50,4 @@ After approval, the branch is merged into the main project. Developers then upda
 How to `Deploy` a `Vite + React App` on `GitHub Pages`?
 - How to Use the `git diff` Command?
 - How to `Skip` the `Git Staging Area`?
+- How to Use the `git stash` Command?
