@@ -47,3 +47,4 @@ After approval, the branch is merged into the main project. Developers then upda
 - How to Use the `git clone` Command?
 - How to Use `git pull` and `git fetch`?
 - How to `Deploy` a `Static Website` on `GitHub Pages`?
+How to `Deploy` a `Vite + React App` on `GitHub Pages`?
