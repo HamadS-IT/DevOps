@@ -47,9 +47,10 @@ After approval, the branch is merged into the main project. Developers then upda
 - How to Use the `git clone` Command?
 - How to Use `git pull` and `git fetch`?
 - How to `Deploy` a `Static Website` on `GitHub Pages`?
-How to `Deploy` a `Vite + React App` on `GitHub Pages`?
+- How to `Deploy` a `Vite + React App` on `GitHub Pages`?
 - How to Use the `git diff` Command?
 - How to `Skip` the `Git Staging Area`?
 - How to Use the `git stash` Command?
 - How to Create Your First `GitHub Actions Workflow`?
 - How to `Schedule GitHub Actions Workflows`?
+- How to `Automate` the `Angular Build Process` Using `GitHub Actions`?
