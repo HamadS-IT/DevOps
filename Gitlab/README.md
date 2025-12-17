@@ -146,3 +146,4 @@ Both GitHub and GitLab are powerful platforms. GitHub excels in collaboration an
 # Explaining:
 
 - How to `Generate` and `Add` an `SSH Key` to `GitLab`?
+- How to `Create` and `Merge` `Branches` in `GitLab`?
