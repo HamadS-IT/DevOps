@@ -142,14 +142,7 @@ Choose GitLab if you:
 
 Both GitHub and GitLab are powerful platforms. GitHub excels in collaboration and community, while GitLab shines as a complete DevOps solution. The best choice depends on your project needs, team size, and deployment strategy.
 
----
 
-## Resources
+# Explaining:
 
-- GitHub: https://github.com
-- GitLab: https://gitlab.com
-- Git Documentation: https://git-scm.com
-
----
-
-Happy coding and collaborating! 🚀
+- How to `Generate` and `Add` an `SSH Key` to `GitLab`?
