@@ -51,3 +51,4 @@ How to `Deploy` a `Vite + React App` on `GitHub Pages`?
 - How to Use the `git diff` Command?
 - How to `Skip` the `Git Staging Area`?
 - How to Use the `git stash` Command?
+- How to Create Your First `GitHub Actions Workflow`?
