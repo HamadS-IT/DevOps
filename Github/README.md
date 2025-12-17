@@ -54,3 +54,4 @@ After approval, the branch is merged into the main project. Developers then upda
 - How to Create Your First `GitHub Actions Workflow`?
 - How to `Schedule GitHub Actions Workflows`?
 - How to `Automate` the `Angular Build Process` Using `GitHub Actions`?
+- How to `Automate` the `Next.js Build Process` Using `GitHub Actions` (With `Cache` and `Artifacts`)?
