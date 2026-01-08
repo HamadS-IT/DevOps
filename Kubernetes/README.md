@@ -169,3 +169,4 @@ Kubernetes provides a powerful and flexible platform for running modern, contain
 
 - How to Install `Kubernetes` and Create a `Multi-Node Cluster` Using `Kind`?
 - `kubectl` Commands Cheat Sheet
+-  `Pods` in Kubernetes: `Imperative` and `Declarative` Approaches
